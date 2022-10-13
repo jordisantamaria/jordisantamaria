@@ -11,7 +11,7 @@ Full stack developer focus in React
 
 * 🌍  I'm based in Japan
 * ✉️  You can contact me at [jordisantamaria1a@gmail.com](mailto:jordisantamaria1a@gmail.com)
-* 🤝  I'm open to collaborating on react and neovim libraries.
+* 🤝  I'm open to collaborating on projects related on react and neovim .
 
 ### Skills
 
