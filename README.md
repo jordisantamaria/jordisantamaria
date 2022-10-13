@@ -4,9 +4,9 @@ Hi 👋 My name is Jordi Santamaria Portoles
 Full stack developer focus in React
 -----------------------------------
 
-- I'm sharing code about my neovim environment for a better developer experience and fast coding
+- Sharing code about my neovim environment for a better developer experience and fast coding
 - Creating cheatsheets with key points to focus in development with different technologies
-- Sample projects of how to use different technologies I use in my job
+- Sharing sample projects of how to use different technologies I use in my job
 
 
 * 🌍  I'm based in Japan
