@@ -34,7 +34,7 @@ I'm developing using neovim, what gives me the possibility in keep working in a 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NeoVim-Dark.svg" width="36" height="36" alt="Neovim" /></a>
+<a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=neovim&theme=light" width="36" height="36" alt="Neovim" /></a>
 </p>
 
 
