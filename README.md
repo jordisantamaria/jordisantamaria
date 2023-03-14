@@ -11,7 +11,7 @@ I participated in all development process, from define requirements, to design, 
 I'm developing using neovim, what gives me the possibility in keep working in a lot of projects at same time, moving from a project to other in a second, find and edit code much faster. I'm sharing my settings I use to work only from terminal and neovim and some neovim plugins I create or forked that I'm using in my current configuration.
 
 
-* 🌍  I'm based in Japan
+* 🌍  I'm based in Spain
 * ✉️  You can contact me at [jordisantamaria1a@gmail.com](mailto:jordisantamaria1a@gmail.com)
 * 🤝  I'm open to collaborating on projects related on react and neovim
 
