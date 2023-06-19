@@ -13,7 +13,7 @@ I'm developing using neovim, what gives me the possibility in keep working in a 
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [jordisantamaria1a@gmail.com](mailto:jordisantamaria1a@gmail.com)
-* 🤝  I'm open to collaborating on projects related on react.
+* 🤝  I'm open to collaborating on projects related on typescript.
 
 ### Skills
 
