@@ -1,7 +1,7 @@
 Hi 👋 My name is Jordi Santamaria Portoles
 ==========================================
 
-Full stack developer focus in React
+Full stack developer focus in Typescript
 -----------------------------------
 
 I had been working 6 years into a company and freelance at same time.
