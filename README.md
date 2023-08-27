@@ -1,23 +1,13 @@
-![Banner](img/programming-banner.jpg 'Banner')
-
 Hi 👋 My name is Jordi Santamaria Portoles
 ==========================================
 
-Full stack developer focus in React and Node
------------------------------------
+I'm an expert in software development with experience in more than 20 projects.
 
-I had been working 6 years into a company and freelance at same time.
-I had develop more than 20 projects related on software development, including websites, mobile and desktop apps and plugins for services like google slides of twitch.
-I participated in all development process, from define requirements, to design, develop frontend, backend, infrastructure, etc...
+![Banner](img/programming-banner.jpg 'Banner')
 
-I'm developing using neovim, what gives me the possibility in keep working in a lot of projects at same time, moving from a project to other in a second, find and edit code much faster. I'm sharing my settings I use to work only from terminal and neovim and some neovim plugins I create or forked that I'm using in my current configuration.
+---
 
-
-* 🌍  I'm based in Spain
-* ✉️  You can contact me at [jordisantamaria1a@gmail.com](mailto:jordisantamaria1a@gmail.com)
-* 🤝  I'm open to collaborating on projects related on typescript.
-
-### Skills
+## 💻 TECH STACK
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -40,6 +30,6 @@ I'm developing using neovim, what gives me the possibility in keep working in a 
 </p>
 
 
-### Socials
+### Connect with me:
 
 <p align="left"> <a href="https://www.github.com/jordisantamaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jordi-santamaria-portoles-8b14818b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Jord1Santamaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
