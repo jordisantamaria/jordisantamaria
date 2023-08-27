@@ -5,8 +5,6 @@ I'm an expert in software development with experience in more than 20 projects.
 
 ![Banner](img/programming-banner.jpg 'Banner')
 
----
-
 ## 💻 TECH STACK
 
 <p align="left">
