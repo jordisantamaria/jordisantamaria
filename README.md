@@ -1,4 +1,4 @@
-![Banner](./programming-banner.jpg "Banner")
+![Banner](img/programming-banner.jpg 'Banner')
 
 Hi 👋 My name is Jordi Santamaria Portoles
 ==========================================
