@@ -1,4 +1,4 @@
-Welcome 👋 I'm Jordi
+Welcome, I'm Jordi 👋
 ==========================================
 
 I'm an expert in software development with experience in more than 20 projects.
