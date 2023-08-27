@@ -1,3 +1,5 @@
+![Banner](./programming-banner.jpg "Banner")
+
 Hi 👋 My name is Jordi Santamaria Portoles
 ==========================================
 
