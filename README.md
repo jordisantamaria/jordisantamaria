@@ -3,7 +3,7 @@ Welcome, I'm Jordi 👋
 
 I'm an expert in software development with experience working for more than 20 business.
 
-I'm focused on offering high quality software, following the best practices to provide the best user and development experience.
+My vision is to make internet a better place, I'm working on make it happen by offering high quality software, following the best practices to provide the best user experience.
 
 ![Banner](img/programming-banner.jpg 'Banner')
 
