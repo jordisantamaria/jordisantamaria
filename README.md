@@ -3,7 +3,7 @@ Welcome, I'm Jordi 👋
 
 I'm an expert in software development with experience working for more than 20 business.
 
-My vision is to make internet a better place, I'm making it by offering high quality software, providing the best user experiences.
+My vision is to make internet a better place, I'm making it happen by offering high quality software, providing the best user experiences.
 
 ![Banner](img/programming-banner.jpg 'Banner')
 
