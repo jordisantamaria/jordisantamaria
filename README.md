@@ -1,5 +1,7 @@
 Senior Fullstack Engineer · Tokyo, Japan · 8+ years of experience
 
-- Cofounder of [Nyxidiom](https://nyxidiom.com) — software agency for startups
+🐘 [paopaoanime.com](https://paopaoanime.com) — weekly anime schedule for Japanese platforms · in public
+
 - Top Rated on [Upwork](https://www.upwork.com/freelancers/~01903db488160a01ee) · Top Freelancer on [Malt](https://www.malt.es/profile/jordisantamariaportoles) · 100% success rate
 - AWS Solutions Architect Certified · JLPT N1
+- [LinkedIn](https://www.linkedin.com/in/jordisantamaria/) · [X](https://x.com/jordisantadev)
