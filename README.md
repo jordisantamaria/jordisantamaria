@@ -1,3 +1,5 @@
+[![推しスキ — 2026.7.29 リリース](img/oshisuki-banner.png)](https://oshisuki.com)
+
 Senior Fullstack Engineer · Tokyo, Japan · 8+ years of experience
 
 - Top Rated on [Upwork](https://www.upwork.com/freelancers/~01903db488160a01ee) · Top Freelancer on [Malt](https://www.malt.es/profile/jordisantamariaportoles) · 100% success rate
