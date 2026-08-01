@@ -7,5 +7,5 @@ Senior Fullstack Engineer · Tokyo, Japan · 8+ years of experience
 
 Building:
 
-- [oshisuki.com](https://oshisuki.com) — AI companion for Japanese 推し活 (idol fandom) · waitlist open
+- [oshisuki.com](https://oshisuki.com) — AI companion for Japanese 推し活 (idol fandom) · in Apple Store
 - [paopaoanime.com](https://paopaoanime.com) — weekly anime schedule for Japanese platforms · in public
