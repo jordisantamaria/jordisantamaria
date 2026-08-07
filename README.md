@@ -1,4 +1,4 @@
-[![推しスキ — 推しの現場、もう見逃さない。推し活カレンダーアプリ](img/oshisuki-banner.png)](https://oshisuki.com)
+[![推しスキ — 推しの現場、もう見逃さない。推し活カレンダーアプリ](img/oshisuki-banner-v2.png)](https://oshisuki.com)
 
 Senior Fullstack Engineer · Tokyo, Japan · 8+ years of experience
 
