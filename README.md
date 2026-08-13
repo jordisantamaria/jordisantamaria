@@ -8,7 +8,7 @@
 作っているもの:
 
 - [oshisuki.com](https://oshisuki.com) — 推し活の予定をひとつにまとめるカレンダーアプリ · 一人で30日で開発 · React Native + Claude API · App Store / Google Play で配信中
-- [paopaoanime.com](https://paopaoanime.com) — 今期アニメの配信スケジュール · オープンソース（[リポジトリ](https://github.com/jordisantamaria/paopaoanime)）
+- [paopaoanime.com](https://paopaoanime.com) — 今期アニメの配信スケジュール · オープンソース
 
 書いているもの:
 
