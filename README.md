@@ -1,4 +1,4 @@
-[![推しスキ — 推しの現場、もう見逃さない。推し活カレンダーアプリ](img/oshisuki-banner-v2.png)](https://oshisuki.com)
+[![推し好き — 推しの予定は、選ぶだけ。推し活カレンダーアプリ](img/oshisuki-banner-v2.png)](https://oshisuki.com)
 
 スペイン出身・東京在住のフルスタックエンジニアです（実務9年）。
 
